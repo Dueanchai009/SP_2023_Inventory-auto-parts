@@ -1,0 +1,1 @@
+import{P as o,b as a,d as t,Q as c,R as _,e as s}from"./index-9cdb50d4.js";const d={},p=e=>(c("data-v-266803f1"),e=e(),_(),e),r=p(()=>s("div",{class:"loader-wrapper"},[s("span",{class:"loader"})],-1)),n=[r];function l(e,i,f,u,v,h){return a(),t("div",null,n)}const x=o(d,[["render",l],["__scopeId","data-v-266803f1"]]);export{x as L};

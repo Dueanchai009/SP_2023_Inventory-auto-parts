@@ -1,0 +1,23 @@
+.buttons-csv {
+  background-color: green;
+}
+
+.buttons-pdf {
+  background: rgb(0, 55, 255) !important;
+}
+
+.buttons-copy {
+  background: gray !important;
+}
+
+.buttons-print {
+  background: pink !important;
+}
+
+.dt-button {
+  padding: 5px 13px !important;
+  border: none !important;
+  border-radius: 2px;
+  color: white;
+}
+
